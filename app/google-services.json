@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1063382424483",
+    "firebase_url": "https://munshi2-73712.firebaseio.com",
+    "project_id": "munshi2-73712",
+    "storage_bucket": "munshi2-73712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063382424483:android:61128c84a4187e14",
+        "android_client_info": {
+          "package_name": "com.example.saurabh.munshi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063382424483-1q57ma5u4qpokeaf4git95qpa5e4pr6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saurabh.munshi",
+            "certificate_hash": "752e666b9eeacf3f83ac4e23998850832871bcf4"
+          }
+        },
+        {
+          "client_id": "1063382424483-mq00prnam43eain4k1dnk5i762giqot5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxaKOa-J3-b6R6xlaT7QxKWC6IqhI2sc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063382424483-mq00prnam43eain4k1dnk5i762giqot5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
